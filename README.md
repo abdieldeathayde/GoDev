@@ -1,1 +1,1 @@
-# GoDev
+Nesse exercicío uma empresa irá oferecer treinamentos em duas estapas, nós teremos que cadastrar as pessoas, listá-las, criar as salas e ambientes de café. Para executar basta abrir o eclipse e clicar no botão vermelho com um triângulo branco dentro xD
